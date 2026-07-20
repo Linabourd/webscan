@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# WebScan generated files
+output/*
+!output/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+reports/generated/*
